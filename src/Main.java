@@ -6,6 +6,7 @@ public class Main {
         System.out.println("My Secrets");
         System.out.println("My Secrets");
         System.out.println("Incognito");
+        System.out.println("Incognito");
     }
 
 }
