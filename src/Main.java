@@ -8,6 +8,7 @@ public class Main {
         System.out.println("Incognito");
         System.out.println("Incognito");
         System.out.println("Incognito");
+
     }
 
 }
